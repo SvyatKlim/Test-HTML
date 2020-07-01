@@ -266,10 +266,9 @@ p {
     text-align: center; }
 
 .meets__img {
-  margin: 0 auto;
+  margin: 0 auto 20px;
   position: relative;
-  max-width: 120px;
-  margin-bottom: 20px; }
+  max-width: 120px; }
   .meets__img img {
     border-radius: 50%; }
 
@@ -558,7 +557,7 @@ p {
   .meets__items {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-bottom: 0px; }
+    margin-bottom: 0; }
   .meets__item {
     width: calc(50% - 20px);
     margin-bottom: 35px; }
